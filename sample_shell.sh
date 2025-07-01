@@ -18,3 +18,7 @@ set -o pipefail
 echo "This my sample git command pactise shell script"
 
 echo "This my second version....."
+
+echo "This my last version..."
+
+
